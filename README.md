@@ -1,6 +1,6 @@
 # Norsk proton- og stråleterapiregister (NORPREG)
 
-![NORPREG-logo](resources/norpreg_logo.png)
+![NORPREG-logo](resources/NORPREG_logo.png)
 
 Norsk proton- og stråleterapiregister (NORPREG) skal bidra til å måle effekten av protonbehandling. NORPREG sikrer tilgang til registeropplysninger for kvalitetsforbedring og forskning innen både foton- og protonterapi.
 
