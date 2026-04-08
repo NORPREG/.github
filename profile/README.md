@@ -1,6 +1,6 @@
 # Norsk proton- og stråleterapiregister (NORPREG)
 
-Denne GitHub-siden inneholder åpne og lukkede repositorier som danner grunnlaget bak NORPREG; både på sentralisert hold (OUS / Forskningsplattformen) og på HF-side (eksportplattform).
+Denne GitHub-siden inneholder åpne og lukkede repositorier som danner det tekniske grunnlaget bak NORPREG; både på sentralisert hold (OUS / Forskningsplattformen) og på HF-side (eksportplattform).
 I utgangspunktet vil kode som benyttes i prosjektet være åpent tilgjengelig, men i utviklingsperioden er flere av repoene lukkede.
 
 ![NORPREG-logo](resources/NORPREG_logo.png)
