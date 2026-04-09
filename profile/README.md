@@ -5,6 +5,7 @@ I utgangspunktet vil kode som benyttes i prosjektet være åpent tilgjengelig, m
 
 ![NORPREG-logo](resources/NORPREG_logo.png)
 
+## Introduksjon til NORPREG
 Norsk proton- og stråleterapiregister (NORPREG) skal bidra til å måle effekten av protonbehandling. NORPREG sikrer tilgang til registeropplysninger for kvalitetsforbedring og forskning innen både foton- og protonterapi.
 
 Registeret skal inneholde kliniske data og stråleterapidata fra kreftpasienter som får strålebehandling i Norge. Oppfølging av pasienter over lengre tid er en viktig del av registeret.  Informasjonen som registreres vil ha betydning for behandling og oppfølging av fremtidige kreftpasienter. Et sentralt mål er å styrke kunnskapen om moderne strålebehandling, inklusive akutte bivirkninger og seneffekter av behandlingen. Økt kunnskap vil kunne bidra til å bedre kvaliteten på strålebehandling som gis og samtidig stimulere til økt interesse og forskning innen fagfeltet.
@@ -19,8 +20,8 @@ Registerets formål er å legge til rette for kvalitetsarbeid, metodeutvikling o
 
 Les mer på [NORPREGs webside](https://www.oslo-universitetssykehus.no/avdelinger/kreftklinikken/flerregional-behandlingstjeneste-for-protonterapi/kvalitetsverktoy/)
 
-## Overordnet datamodell for registeret
+## Overordnet datamodell
 ![Datamodell](resources/datamodell.png)
 
-## Overordnet dataflyt for registeret
+## Overordnet dataflyt
 ![Dataflyt](resources/dataflyt.png)
