@@ -19,5 +19,5 @@ Registerets formål er å legge til rette for kvalitetsarbeid, metodeutvikling o
 
 Les mer på [NORPREGs webside](https://www.oslo-universitetssykehus.no/avdelinger/kreftklinikken/flerregional-behandlingstjeneste-for-protonterapi/kvalitetsverktoy/)
 
-## Datamodell for registeret
+## Overordnet datamodell for registeret
 ![Datamodell](resources/datamodell.png)
