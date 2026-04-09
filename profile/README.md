@@ -21,3 +21,6 @@ Les mer på [NORPREGs webside](https://www.oslo-universitetssykehus.no/avdelinge
 
 ## Overordnet datamodell for registeret
 ![Datamodell](resources/datamodell.png)
+
+## Overordnet dataflyt for registeret
+![Dataflyt](resources/dataflyt.png)
